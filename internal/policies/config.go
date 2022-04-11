@@ -3,9 +3,9 @@ package policies
 import (
 	"errors"
 
-	"github.com/m1k1o/neko-rooms/internal/policies/chromium"
-	"github.com/m1k1o/neko-rooms/internal/policies/firefox"
-	"github.com/m1k1o/neko-rooms/internal/types"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/policies/chromium"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/policies/firefox"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/types"
 )
 
 func Generate(policies types.BrowserPolicyContent, policyType types.BrowserPolicyType) (string, error) {
