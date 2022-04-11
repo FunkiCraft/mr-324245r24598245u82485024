@@ -15,7 +15,7 @@ import (
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 
-	nekoRooms "github.com/m1k1o/neko-rooms"
+	nekoRooms "github.com/FunkiCraft/mr-324245r24598245u82485024"
 )
 
 func Execute() error {
