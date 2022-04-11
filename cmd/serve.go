@@ -4,8 +4,8 @@ import (
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 
-	nekoRooms "github.com/m1k1o/neko-rooms"
-	"github.com/m1k1o/neko-rooms/internal/config"
+	nekoRooms "github.com/FunkiCraft/mr-324245r24598245u82485024"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/config"
 )
 
 func init() {
