@@ -11,11 +11,11 @@ import (
 	"github.com/rs/zerolog/log"
 	"github.com/spf13/cobra"
 
-	"github.com/m1k1o/neko-rooms/internal/api"
-	"github.com/m1k1o/neko-rooms/internal/config"
-	"github.com/m1k1o/neko-rooms/internal/pull"
-	"github.com/m1k1o/neko-rooms/internal/room"
-	"github.com/m1k1o/neko-rooms/internal/server"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/api"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/config"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/pull"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/room"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/server"
 )
 
 const Header = `&34
