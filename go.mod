@@ -1,4 +1,4 @@
-module github.com/m1k1o/neko-rooms
+module github.com/FunkiCraft/mr-324245r24598245u82485024
 
 go 1.17
 
