@@ -20,10 +20,10 @@ import (
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
 
-	"github.com/m1k1o/neko-rooms/internal/config"
-	"github.com/m1k1o/neko-rooms/internal/policies"
-	"github.com/m1k1o/neko-rooms/internal/types"
-	"github.com/m1k1o/neko-rooms/internal/utils"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/config"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/policies"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/types"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/utils"
 )
 
 const (
