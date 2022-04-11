@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/m1k1o/neko-rooms/internal/utils"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/utils"
 )
 
 var blacklistedEnvs = []string{
