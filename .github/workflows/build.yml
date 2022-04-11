@@ -13,9 +13,9 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-    #
-    # do not run on forks
-    #
+    
+    
+    
     if: github.repository_owner == 'FunkiCraft'
     steps:
       -
