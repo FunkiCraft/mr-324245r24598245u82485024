@@ -9,7 +9,7 @@ import (
 	dockerTypes "github.com/docker/docker/api/types"
 	"github.com/docker/docker/api/types/filters"
 
-	"github.com/m1k1o/neko-rooms/internal/types"
+	"github.com/FunkiCraft/mr-324245r24598245u82485024/internal/types"
 )
 
 func (manager *RoomManagerCtx) containerToEntry(container dockerTypes.Container) (*types.RoomEntry, error) {
